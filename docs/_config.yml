@@ -1,12 +1,12 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Olivia's Creative Learning Academy
 description         : >-
-                      I turn coffee :coffee: into code,
+                      High Quality Chinese, Art, and Early English Classes in the Bay Area: into code,
                       use tabs over spaces
                       and never broke production.
-baseurl             : "/portfolYOU"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : yousinix/portfolYOU      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : yousinix/portfolYOU
+baseurl             : "/Olivia's Creative Learning Academy"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : yousinix/Olivia's Creative Learning Academy      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : yousinix/Olivia's Creative Learning Academy
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
